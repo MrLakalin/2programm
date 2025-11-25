@@ -1,0 +1,14 @@
+C:\Users\MrLak\OneDrive\Рабочий стол\МДК\praktika2\praktika\bin\x64\Debug\admin.accdb
+C:\Users\MrLak\OneDrive\Рабочий стол\МДК\praktika2\praktika\bin\x64\Debug\dnevnik.accdb
+C:\Users\MrLak\OneDrive\Рабочий стол\МДК\praktika2\praktika\bin\x64\Debug\praktika.exe.config
+C:\Users\MrLak\OneDrive\Рабочий стол\МДК\praktika2\praktika\bin\x64\Debug\praktika.exe
+C:\Users\MrLak\OneDrive\Рабочий стол\МДК\praktika2\praktika\bin\x64\Debug\praktika.pdb
+C:\Users\MrLak\OneDrive\Рабочий стол\МДК\praktika2\praktika\obj\x64\Debug\praktika2.csproj.AssemblyReference.cache
+C:\Users\MrLak\OneDrive\Рабочий стол\МДК\praktika2\praktika\obj\x64\Debug\praktika.exe.config
+C:\Users\MrLak\OneDrive\Рабочий стол\МДК\praktika2\praktika\obj\x64\Debug\praktika.Form1.resources
+C:\Users\MrLak\OneDrive\Рабочий стол\МДК\praktika2\praktika\obj\x64\Debug\praktika.Properties.Resources.resources
+C:\Users\MrLak\OneDrive\Рабочий стол\МДК\praktika2\praktika\obj\x64\Debug\praktika.Reg.resources
+C:\Users\MrLak\OneDrive\Рабочий стол\МДК\praktika2\praktika\obj\x64\Debug\praktika2.csproj.GenerateResource.cache
+C:\Users\MrLak\OneDrive\Рабочий стол\МДК\praktika2\praktika\obj\x64\Debug\praktika2.csproj.CoreCompileInputs.cache
+C:\Users\MrLak\OneDrive\Рабочий стол\МДК\praktika2\praktika\obj\x64\Debug\praktika.exe
+C:\Users\MrLak\OneDrive\Рабочий стол\МДК\praktika2\praktika\obj\x64\Debug\praktika.pdb
