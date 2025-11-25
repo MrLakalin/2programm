@@ -1,0 +1,16 @@
+C:\Users\MrLak\OneDrive\Рабочий стол\МДК\ychitel\ychitel\bin\x64\Debug\ychitel.exe.config
+C:\Users\MrLak\OneDrive\Рабочий стол\МДК\ychitel\ychitel\bin\x64\Debug\ychitel.exe
+C:\Users\MrLak\OneDrive\Рабочий стол\МДК\ychitel\ychitel\bin\x64\Debug\ychitel.pdb
+C:\Users\MrLak\OneDrive\Рабочий стол\МДК\ychitel\ychitel\obj\x64\Debug\ychitel.csproj.AssemblyReference.cache
+C:\Users\MrLak\OneDrive\Рабочий стол\МДК\ychitel\ychitel\obj\x64\Debug\ychitel.Form1.resources
+C:\Users\MrLak\OneDrive\Рабочий стол\МДК\ychitel\ychitel\obj\x64\Debug\ychitel.Main.resources
+C:\Users\MrLak\OneDrive\Рабочий стол\МДК\ychitel\ychitel\obj\x64\Debug\ychitel.Properties.Resources.resources
+C:\Users\MrLak\OneDrive\Рабочий стол\МДК\ychitel\ychitel\obj\x64\Debug\ychitel.csproj.GenerateResource.cache
+C:\Users\MrLak\OneDrive\Рабочий стол\МДК\ychitel\ychitel\obj\x64\Debug\ychitel.csproj.CoreCompileInputs.cache
+C:\Users\MrLak\OneDrive\Рабочий стол\МДК\ychitel\ychitel\obj\x64\Debug\ychitel.exe
+C:\Users\MrLak\OneDrive\Рабочий стол\МДК\ychitel\ychitel\obj\x64\Debug\ychitel.pdb
+C:\Users\MrLak\OneDrive\Рабочий стол\МДК\ychitel\ychitel\obj\x64\Debug\ychitel.exe.config
+C:\Users\MrLak\OneDrive\Рабочий стол\МДК\ychitel\ychitel\bin\x64\Debug\dnevnikDataSet.Designer.cs
+C:\Users\MrLak\OneDrive\Рабочий стол\МДК\ychitel\ychitel\bin\x64\Debug\dnevnikDataSet.xsc
+C:\Users\MrLak\OneDrive\Рабочий стол\МДК\ychitel\ychitel\bin\x64\Debug\dnevnikDataSet.xsd
+C:\Users\MrLak\OneDrive\Рабочий стол\МДК\ychitel\ychitel\bin\x64\Debug\dnevnikDataSet.xss
